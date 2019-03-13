@@ -55,7 +55,6 @@ Put ‘em here!
     * <https://www.fireeye.com/blog/executive-perspective/2018/03/disinformation-through-fabricated-news-sites.html>
  * Tim
     * [adversarial social media tactics](https://medium.com/@timboucher/adversarial-social-media-tactics-e8e9857fede4), Medium 
-    * [Red Team Playbook](https://paper.dropbox.com/doc/Red-Team-Playbook-jNrh55XeRsZLg8ltmSA5q) – Dropbox Paper
  * Sara
     * [Security frameworks for misinformation](https://medium.com/@sarajayneterp/security-frameworks-for-misinformation-d4b58e4047ec), Medium blogpost, Nov 2018, 
     * [Practical influence operations](https://medium.com/@sarajayneterp/practical-influence-operations-760b03f8a493), medium blogpost, Dec 2018, 
@@ -117,7 +116,6 @@ Propagation:
 DIY offensive misinformation attacks:
  * Buying aged accounts:  <https://medium.com/dfrlab/influence-for-sale-bot-shopping-on-the-darknet-1c9ddfb3d8e6> and <https://www.buzzfeednews.com/article/charliewarzel/heres-how-easy-it-is-to-buy-fake-facebook-profiles#.wp3NBOlxO>
  * 2014 GCHQ and forum stuff: <https://cryptome.org/2012/07/gent-forum-spies.htm>
- * <https://8ch.net/qresearch/res/1618616.html> <- yeah, be careful with this one… 
  * <https://www.pastemagazine.com/articles/2017/06/how-the-trump-russia-data-machine-games-google-to.html>
  * <https://www.dailykos.com/stories/2011/02/16/945768/-UPDATED:-The-HB-Gary-Email-That-Should-Concern-Us-All> OMG I forgot I had this one
  * <https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2> <- Grugq weighs in on where this fits in ‘cyber'.
@@ -234,17 +232,4 @@ response
  * Saxe and Sanders "[Malware data science: attack detection and attribution](https://www.goodreads.com/book/show/38213382-malware-data-science)". Misinformation, botnets, campaigns, trolls: to date they've been fairly crude, mostly manual or only lightly automated. That's changing, and it's worth keeping up with trends in the application of machine learning and artificial intelligence to hacking, to see what might be coming next. There aren't many books on this subject yet: here's a good one.
 
 
-## Tools <a name="tools"></a>
-### Conspirator's list:
- * <https://twitter.com/conspirator0/status/1046503540640886784>
 
-### Christopher Bouzy / The troll hunter:
- * <https://makeadverbsgreatagain.org/allegedly/>
- * <http://botsentinel.com/>
-
-### Graphistry
- * A brief tutorial to make your regular CSV files Graphistry-ready via Hypergraph <https://labs.graphistry.com/docs/setup/notebook/notebook_2.html>
-
-### twarc
- * <https://labsblog.f-secure.com/2018/02/16/searching-twitter-with-twarc/>
- * <https://github.com/IHJpc2V1cCAK/socint>
