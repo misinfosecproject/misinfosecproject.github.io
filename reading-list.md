@@ -80,7 +80,8 @@ Put ‘em here!
     * <https://www.justice.gov/ag/page/file/1076696/download> <- justice department, inc tactics
     * <https://www.belfercenter.org/sites/default/files/files/publication/PAE%20Mansted%20-%20web.pdf> - Harvard Kennedy thesis, inc tactics
     * <https://arxiv.org/pdf/1810.11063.pdf> - ambient tactical deception
-
+    * [Exacerbating our ‘fake news’ problems: Chatbots](https://the-parallax.com/2018/03/26/fake-news-chatbots/) - Seth Rosenblatt, The Parallax
+    * [Meet ‘misinfosec’: Fighting fake news like it’s malware](https://the-parallax.com/2019/04/17/misinfosec-fighting-fake-news-malware/) - Seth Rosenblatt, The Parallax
 
 ## Contributing Fields  <a name="contributing-fields"></a>
 ### Infosec basics <a name="infosec-basics"></a>
